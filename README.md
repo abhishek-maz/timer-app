@@ -1,0 +1,1 @@
+An app that counts down from a user defined time interval, using SVGs to provide graphics.
